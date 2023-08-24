@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chris, @NgChris415
-- 🌱 I’m currently learning HTML, CSS, & Javascript
+- 🌱 I'm just finished up at CodingDojo with emphasis in full stack Python, other languages inclue HTML, CSS, Javascript
 - 📫 How to reach me ngchris415@gmail.com
 
 <!---
