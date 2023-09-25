@@ -5,6 +5,8 @@
     <h2> 👋 Hi, I’m Chris </h2>
 </div>
 
+<p>Welcome to my Profile! I'm a former Physical Therapist who has transitioned into the world of Full-Stack Software Engineering. My enthusiasm lies in tackling challenges collaboratively, crafting solutions, and developing products that enhance daily experiences. I have an interest in diverse sectors such as Social Media, Health, Finance, Environmental/Nature, and beyond.</p>
+
 <div align='center'>
     <h2> Tech Stacks </h2>
 </div>
